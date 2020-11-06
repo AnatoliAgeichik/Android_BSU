@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="ok">Ok</string>
+    <string name="standartNumb" translatable="false">0</string>
+    <string name="secondActName">secondActivity</string>
+    <string name="FirstActName">firstActivity</string>
+</resources>
