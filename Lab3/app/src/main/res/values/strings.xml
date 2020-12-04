@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="to_mile">to mile</string>
+    <string name="to_yard">to yard</string>
+    <string name="to_foot">to foot</string>
+    <string name="to_inch">to Inch</string>
+    <string name="mile">  Mile</string>
+    <string name="yard">  Yard</string>
+    <string name="foot">  Foot</string>
+    <string name="inch">  Inch</string>
+    <string name="metres">Metres</string>
+
+</resources>
